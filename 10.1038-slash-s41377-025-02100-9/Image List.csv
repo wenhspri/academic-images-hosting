@@ -1,0 +1,28 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Paper%20Cover.png
+Fig 1,"Fig. 1 Performance radar chart and experimental setup of OEIM. a Performance radar chart illustrating the capabilities of OEIM, see Supplementary
+Table S3 for detailed comparison with other systems. b Schematic of the experimental setup. Ising spins are represented by the binary phase of OEPO
+pulses, and arbitrary connections between spins are established via an FPGA-based feedback loop. Key components include MZM (Mach-Zehnder
+modulator), SOA (semiconductor optical ampliﬁer), SMF (single-mode ﬁber), PD (photodetector), EA (electrical ampliﬁer), LO (local oscillator), BPF
+(bandpass ﬁlter), LPF (lowpass ﬁlter), ADC (analog-to-digital converter), FPGA (ﬁeld-programmable gate array), and DAC (digital-to-analog converter)",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%201.png
+Fig 2,"Fig. 2 Solving the MAX CUT problem with OEIM and comparison with SA. a Evolution of spin amplitude with increasing number of circulations
+for the I4096 problem. Inset shows rapid bifurcation of Ising spins at the onset of evolution. b Temporal evolution of the cut value obtained by OEIM
+(red curve) and SA in speed mode (blue curve) for the I4096 problem. The dashed line indicates the target value (90,984) attained by SG3 (see
+Supplementary Section 5). c Time-to-target for 4096-node graphs under varying graph densities (1%, 10%, 50%, 100%) using OEIM and SA in speed
+mode. d Histogram of cut values obtained by OEIM and SA in accuracy mode for the I4096 problem. The best and mean cut values achieved by OEIM
+are 98,236 and 96,794, respectively, while those for SA are 97,564 and 95,731",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%202.png
+Fig 3,"Fig. 3 Stable oscillation time of OEIM. a Temporal variation in the Pearson correlation coefﬁcient r of OEIM, with characteristic points marked in
+red. The inset depicts ﬂuctuations in r curve as OEIM approaches the end of stable oscillation. b Histogram of stable oscillation time of the OEIM with
+temperature control module",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%203.png
+Fig 4,"Fig. 4 Solving process for general COP and trafﬁc optimization problems. 1 Mapping of the COP to the Ising model. 2 Loading the J matrix
+from the Ising model into OEIM via FPGA. 3 Evolution of OEIM to obtain the Ising spin set. 4 Mapping the Ising spin set back to the COP to yield the
+optimized solution. For trafﬁc optimization, data from the T-Drive dataset is used, the UE model is converted to an Ising model, and the optimized
+solution represents the optimal trafﬁc diversion plan",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%204.png
+Fig 5,"Fig. 5 Solving the real-world trafﬁc optimization problem with OEIM and comparison with SA. a, b Histogram and heatmap of the Ising
+coupling matrix elements for the trafﬁc optimization problem. c Temporal evolution of Ising energy obtained using OEIM (red curve) and SA (blue
+curve). The dashed line denotes the reference Ising energy computed with IA (−1,054,280). Insets showcase the OEIM and SA curves nearing
+completion. d Amplitude evolution of each spin with increasing number of OEIM circulations. Zoom zone 1 displays the initial evolution, while zoom
+zone 2 captures the ﬁnal stages",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%205.png
+Fig 6,"Fig. 6 Multiple solutions for real-world trafﬁc optimization and trafﬁc heatmaps. a Comparison of computation time and ﬁnal achieved Ising
+energy for multiple solutions obtained by OEIM (red dots) and SA (blue dots). b Trafﬁc heatmap before optimization. c, d Trafﬁc heatmaps after
+optimization by OEIM (2.7 ms) and SA (6.46 s), respectively",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41377-025-02100-9/Fig%206.png
