@@ -1,0 +1,47 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Paper%20Cover.png
+Fig 1,"Fig. 1. Rarity score distribution. (a) Spatial rarity score distribution. The trajectory endpoints are ﬁtted to a GMM. The score is the negative 
+log-likelihood of an endpoint under this distribution. (b) Temporal rarity score distribution. Calculated from a GMM ﬁtted on the low-dimensional 
+FPCA scores of the full trajectories. (c) Final rarity score distribution. The ﬁnal score is the square root product of the spatial and temporal rarity 
+scores. All scores are normalized to [0, 1], with higher scores indicating higher rarity. Both GMMs have 10 components, which is selected based on 
+minimizing Bayesian information criterion.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%201.png
+Fig 2,"Fig. 2. Tail score distribution of the training samples in Argoverse 2 motion forecasting dataset. Tail score is calculated as the production of 
+diﬃculty score and rarity score. Tail score is shown in log-scale.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%202.png
+Fig 3,"Fig. 3. Distribution of speed diﬀerence, speed standard deviation, heading diﬀerence and heading standard deviation of top 10 % head 
+and tail samples. The y-axis (density) is in log scale.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%203.png
+Fig 4,Fig. 4. Distribution of relative speed and heading of top 10 % head and top 10 % tail samples.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%204.png
+Fig 5,"Fig. 5. Overview of the proposed CDKFormer architecture. The model ﬁrst encode the agent motion and scene contextual information with 
+self-attention-based encoders. The deviation and motion features of the target vehicle are jointly fused in a deviation fusion module. The scene 
+context and deviation information are subsequently decoded by a mode query and dual future queries, including a regular future query and a tail 
+future query, within multistream decoder blocks. Then, a scene query is obtained by combining the mode query and weighted combined future 
+query. This scene query is further reﬁned and used for multimodal trajectories generation. ×𝑁 denotes 𝑁 stacked layers. (R)Future and (T)Future 
+denote regular future query and tail future query, respectively.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%205.png
+Fig 6,"Fig. 6. Deviation feature encoding module structure. The individual and group deviation feature are ﬁrst seperately encoded with MLPs and 
+then added to form a uniﬁed deviation feature. Then this deviation feature is fused with the target motion feature using a Transformer encoder, 
+which facilitates the modeling of temporal deviation patterns.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%206.png
+Fig 7,Fig. 7. Illustration of target vehicle heading angle and speed.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%207.png
+Fig 8,"Fig. 8. MultiStream Decoder Block. (a) The structure of the MultiStream Decoder Block. (b) The structure of the MoE layer in cross-modal fusion 
+phase.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%208.png
+Fig 9,"Fig. 9. Supervision mechanism for the multicomponent loss. Our model employs deep supervision, where intermediate trajectory predictions 
+are generated from the mode, regular future, tail future queries and the context feature. These outputs are used to compute their respective loss 
+terms (mode, future,r, future,t and group). And the ﬁnal output are used to compute the scene loss scene. The prediction heads are omitted from the 
+diagram for simplicity.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%209.png
+Fig 11,Fig. 11. Long-tail performance comparison of QCNet and CDKFormer based on minFDE6 on Argoverse 2 motion forecast dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%2011.png
+Fig 12,"Fig. 12. Performance comparison of long-tail learning methods on inD dataset. The violin plots show the error distributions for CDKFormer 
+and four baseline long-tail learning methods, including balancing sampling, loss reweighting, Contrastive, and FEND, on the top 10 % of tail samples 
+of inD dataset. Performance is evaluated across four metrics: (a) minADE6, (b) minFDE6, (c) b-minFDE6, and (d) MR6. Statistical signiﬁcance between 
+CDKFormer and each baseline was determined using a Mann-Whitney U test. (∗: 𝑝< 0.05, ∗∗: 𝑝< 0.01, ∗∗∗: 𝑝< 0.001, ns: not signiﬁcant).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%2012.png
+Fig 13,"Fig. 13. Visual comparison of multimodal trajectory prediction results. Vehicles are represented by bounding boxes in dark blue. Historical 
+and ground-truth trajectories are illustrated with light blue and orange solid lines, respectively. The top row displays the results from our proposed 
+CDKFormer, while the bottom row shows the corresponding predictions from QCNet. The corresponding diﬃculty score 𝑆𝑑 and rarity score 𝑆𝑟 are 
+provided for each scenario.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%2013.png
+Fig 10,"Fig. 10. Performance comparison of QCNet and CDKFormer based on minADE6 across various deviation features on Argoverse 2 motion  forecast dataset. minADE6 data is categorized into ﬁve bins of equal size using quantile binning based on feature values, with results presented as  mean values and standard deviation for samples within each bin.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Fig%2010.png
+Table 1,Table 1  Long-tail characteristics of trajectory samples in Argoverse 2 mo- tion forecasting dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%201.png
+Table 2,"Table 2  Prediction performance in comparison with SOTA trajectory prediction models on Argoverse 2  motion forecast dataset. Performance is reported for all samples, top 10 % tail samples, and top 5 %  tail samples.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%202.png
+Table 3,"Table 3  Prediction performance in comparison with SOTA trajectory prediction models on inD Dataset. Performance is reported for all samples, top 10 % tail samples, and top 5 % tail samples.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%203.png
+Table 4,"Table 4  Prediction performance in comparison with SOTA long-tail learning methods on Argoverse 2 motion forecast  dataset. Performance is reported for all samples, top 10 % tail samples, and top 5 % tail samples.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%204.png
+Table 5,"Table 5  Prediction performance in comparison with SOTA long-tail learning methods on inD Dataset. Performance is  reported for all samples, top 10 % tail samples, and top 5 % tail samples.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%205.png
+Table 6,"Table 6  CVaR for minFDE6 on the inD Dataset. The table shows the average minFDE6 for increasingly challenging subsets of the tail  distribution, from the worst 10 % (90th percentile) to the worst 1 % (99th percentile) of cases.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%206.png
+Table 7,Table 7  Ablation study on input deviation feature. Results are  shown on Argoverse 2 motion forecast dataset and presented  in minADE6/minFDE6.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%207.png
+Table 8,Table 8  Ablation study on query design. Results are shown on Argoverse 2 motion  forecast dataset and presented in minADE6/minFDE6.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%208.png
+Table 9,Table 9  Ablation study on multistream cross-attention block structure. Re- sults are shown on Argoverse 2 motion forecast dataset and presented in  minADE6/minFDE6.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2025.105430/Table%209.png
