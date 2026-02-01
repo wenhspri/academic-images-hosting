@@ -1,0 +1,29 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Paper%20Cover.png
+Fig 1,Fig. 1. EB system under hybrid energy supply configuration.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%201.png
+Fig 2,Fig. 2. Algorithm framework.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%202.png
+Fig 3,Fig. 3. Flowchart of the action correction strategy.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%203.png
+Fig 4,Fig. 4. Hybrid Network Structure.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%204.png
+Fig 5,Fig. 5. Seasonal Daily Energy Consumption of EB Routes.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%205.png
+Fig 6,"Fig. 6. Distribution of GHI, DNI, DHI, and POA during daytime.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%206.png
+Fig 7,Fig. 7. PV output power under different weather conditions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%207.png
+Fig 8,Fig. 8. Reward and loss value changes of MH-MARL during training.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%208.png
+Fig 9,"Fig. 9. (a) Total charging demand of the EB system and the change of the average daily light amplitude, (b) Solution set of the test set based on 
+MH-MARL.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%209.png
+Fig 10,Fig. 10. PV output and the scheduling plan of Route 2 under two typical weather conditions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2010.png
+Fig 11,Fig. 11. Comparison of Suggested and Executed Actions for Route 2.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2011.png
+Fig 12,"Fig. 12. Changes in actual temperature and solar irradiance on July 27, 2020 (sample 57).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2012.png
+Fig 13,"Fig. 13. (a) Profit curve of dynamic scheduling method, (b) PV utilization rate change curve.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2013.png
+Fig 14,Fig. 14. Loss and reward curves of different ablation variants.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2014.png
+Fig 15,Fig. 15. Solution set of the test set based on + Corr.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2015.png
+Fig 16,Fig. 16. Relationship curve between PV cells and costs/carbon emissions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2016.png
+Fig 17,Fig. 17. Relationship curve between ESS battery capacity and costs/carbon emissions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Fig%2017.png
+Table 1,Table 1  Definitions and explanations of EB charging types.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%201.png
+Table 2,Table 2  Definitions and explanations of ESS charging types.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%202.png
+Table 3,Table 3  Agent Actions Description.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%203.png
+Table 4,Table 4  Comprehensive Information for EB Route Operations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%204.png
+Table 5,Table 5  EB Route Scheduling Intervals and Travel Times.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%205.png
+Table 6,Table 6  MH-MARL Algorithm Parameter Values.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%206.png
+Table 7,Table 7  Model Parameter Values.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%207.png
+Table 8,Table 8  Comparison of optimization targets between MH-MARL and D-AHCS.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%208.png
+Table 10,Table 10  Convergence performance of ablation variants.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105539/Table%2010.png
