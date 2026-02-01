@@ -1,0 +1,21 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Paper%20Cover.png
+Fig 1,Fig. 1. Robotic picking in Amazon fulﬁllment centers (left; source: Control Automation) and Robotized t-Sort systems (right; source: Libiao Robotics).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%201.png
+Fig 2,Fig. 2. Example of pooled resource deployment considering arrival patterns in a multi-tier network.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%202.png
+Fig 3,Fig. 3. Illustration of the decision-making process of the dynamic pooled hub resource deployment.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%203.png
+Fig 4,Fig. 4. Conceptual depiction of relax-and-ﬁx rolling horizon schema.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%204.png
+Fig 5,Fig. 5. Flowchart of solution approach with Benders decomposition and relax-and-ﬁx heuristics.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%205.png
+Fig 6,Fig. 6. Decision-making procedure for relax-and-ﬁx heuristics with spectral clustering.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%206.png
+Fig 7,"Fig. 7. Overview of the baseline hub networks, highlighting identiﬁed hub locations and clusters with their internal and cross-cluster links.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%207.png
+Fig 8,Fig. 8. Computational performance for solution approaches in 5 diﬀerent instances of networks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%208.png
+Fig 9,Fig. 9. The allocations and relocations of resources within the logistics network of 52 urban hubs.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%209.png
+Fig 9_1,无本地文件
+Fig 10,Fig. 10. Comparative results of the proposed dynamic resource deployment approach (R+R) vs (S+S).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%2010.png
+Fig 11,"Fig. 11. Cost and resource savings with workforce only, robots only, and both workforce and robots.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%2011.png
+Fig 12,Fig. 12. Resource shifts on pooling with diﬀerent resource characteristics.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Fig%2012.png
+Table 1,"Table 1  Key decisions, modeling and solution approaches in resource deployment studies.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%201.png
+Table 2,Table 2  Distinguishing features for resource deployment studies in urban logistic networks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%202.png
+Table 3,"Table 3  Descriptions of sets, parameters, and decision variables.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%203.png
+Table 4,Table 4  Computational performance for solution approaches of exact MIP.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%204.png
+Table 5,Table 5  Computational performance with relax-and-ﬁx heuristics.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%205.png
+Table 6,Table 6  Results highlights and comparison with static horizon and static resource deployments.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103409/Table%206.png
