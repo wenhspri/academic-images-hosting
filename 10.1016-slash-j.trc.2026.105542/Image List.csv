@@ -1,0 +1,39 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Paper%20Cover.png
+Fig 1,"Fig. 1. Airspace corridor design from NASA & FAA (2023) concepts of operations for urban air mobility. These subﬁgures correspond to Fig. 3 
+(“Notional Multiple UAM Corridors”) and Fig. 6 (“Use of a Vertical Common Passing Zone”) in the referenced ConOps.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%201.png
+Fig 2,"Fig. 2. Non-cooperative conﬁgurations. For any conﬁguration, only one CAT/GA operation crosses the airspace and UAS can be either cooperative 
+(blue icons) or non cooperative (grey icons). Blue UAS are handled by the TCRS. The ﬁrst conﬁguration in (a) assumes CAT/GA operation traveling 
+along a straight trajectory without any changes to its heading or speed. The second conﬁguration in (b) assumes CAT/GA operation performing a 
+heading change of up to ±90° at the midpoint of its trajectory. The third conﬁguration in (c) assumes CAT/GA operation initiating a descent, in 
+addition to the heading change described previously, at the trajectory midpoint.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%202.png
+Fig 3,Fig. 3. Types and impact of perturbations on solver performance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%203.png
+Fig 4,"Fig. 4. Critical safety layers in tactical conﬂict resolution. Escalation through these layers corresponds to increasing collision risk. Loss of separation 
+has two levels: a Loss of Well Clear, which represents a formalised conﬂict that must be resolved to prevent a Near Mid-Air Collision; the most severe 
+outcome, indicating a failure of tactical conﬂict resolution. The right panel shows the quantitative thresholds used.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%204.png
+Fig 5,"Fig. 5. Tactical conﬂict resolution solver framework. A centralised, ground-based solver acting as a safety net for UTM service providers. It embeds 
+a MARL system to compute agents’ actions, with modules for state encoding, perturbation handling, and policy inference.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%205.png
+Fig 6,Fig. 6. State representation of an agent 𝑖 - own state and encounter state observations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%206.png
+Fig 7,Fig. 7. Observation states - visual representation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%207.png
+Fig 8,Fig. 8. Conﬂict resolution case with encounters adhering within their shared operational volume.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%208.png
+Fig 9,"Fig. 9. Visual representation of the reward functions deﬁned in Eqs. (20) and (22), corresponding respectively to subﬁgures (a) and (b). (a) illustrates 
+how both horizontal and vertical separation aﬀect the safety-related reward. Note that the horizontal separation values were originally expressed 
+in nautical miles and converted to feet, resulting in non-rounded thresholds for loss of separation.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%209.png
+Fig 10,"Fig. 10. Safety outcomes of the baseline TCRS reﬂecting the safety performance of the MARL under ideal conditions. (c) shows the solver’s training 
+progression, with reduced NMAC violations and increasing cumulative rewards. (c) illustrates the expected frequency of loss of separation events 
+when no conﬂict resolution is applied, serving as a benchmark scenario. (d) presents the safety performance of the same scenario when the solver 
+is deployed. Both evaluations are conducted over more than 1300 cumulative simulated ﬂight hours.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%2010.png
+Fig 11,"Fig. 11. Resilience analysis of the trained solver under the diﬀerent perturbations introduced in Section 4.3, without prior exposure during training 
+(i.e., baseline model). Each perturbation is tested individually with occurrence rates of 0.1%, 1%, 10%, and 100% (i.e., permanent).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%2011.png
+Fig 12,"Fig. 12. Training performance of the TCRS models listed in Table 4. Left-hand ﬁgures (a) and (c) show the cumulative reward per episode aggregated 
+by the centralised MARL solver. Right-hand ﬁgures (b) and (d) report the cumulative time (in seconds) that any agent spends within the NMAC 
+region per episode. For clarity, and due to the longer training durations of the TCRS models exposed to combined perturbations, these are presented 
+separately in the bottom ﬁgures (c) and (d).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%2012.png
+Fig 13,"Fig. 13. Scatter plot of vertical and horizontal separations between ownship and intruder during encounters across 1000 ﬂight hours using TCRS-
+NC. Samples are taken every 5 seconds. (a) shows the most unsafe case (i,e., max NMAC duration), while (b) depicts the safest one (i.e., no NMAC 
+with minimal LoWC).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Fig%2013.png
+Table 1,Table 1  Perturbation modelling and identiﬁcation of the eﬀects.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Table%201.png
+Table 2,Table 2  State observation information from an ownship 𝑖 point of view.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Table%202.png
+Table 3,Table 3  Performance speciﬁcations of the aircraft models used in tactical conﬂict resolution sim- ulations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Table%203.png
+Table 4,"Table 4  Identiﬁcation of TCRS models trained under speciﬁc perturbations. Each value indicates the frequency of perturbation  events, expressed per ﬂight hour.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Table%204.png
+Table 6,Table 6  Safety implications of the progressive introduction of dynamic non-cooperative UAS into the traﬃc. Cooperative  traﬃc is handled by the TCRS-NC model. Performance metrics relative to the non-cooperative intruders are pro- vided in parentheses.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105542/Table%206.png
