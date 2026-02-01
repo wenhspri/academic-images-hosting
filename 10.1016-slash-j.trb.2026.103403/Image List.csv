@@ -1,0 +1,15 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Paper%20Cover.png
+Fig 1,"Fig. 1. Illustration of the spatial distribution of households, potential charging stations, and existing charging depots across the Chicago metropolitan 
+area.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Fig%201.png
+Fig 2,Fig. 2. Spatial distribution of open depot and TAZ stations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Fig%202.png
+Fig 3,Fig. 3. Sensitivity analysis of changes in ℂ under various parameter adjustments.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Fig%203.png
+Table 1,Table 1  Sets and parameters used in model 𝔾.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%201.png
+Table 2,Table 2  Variables and cost functions used in model 𝔾.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%202.png
+Table 3,Table 3  General parametric values.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%203.png
+Table 4,Table 4  Charger-speciﬁc parametric values.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%204.png
+Table 5,Table 5  Comparison of MIQP and Lagrangian solution methods.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%205.png
+Table 6,Table 6  Problem size comparison of MIQP and Lagrangian relaxation methods.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%206.png
+Table 7,Table 7  Number of instances each method reached the tightest  upper bound within 1 h.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%207.png
+Table 8,Table 8  Percentage change in the objective for various scenarios using LMCC method.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%208.png
+Table 9,Table 9  Large-scale case study results using the LMCC method with a 6-hour time limit.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103403/Table%209.png
