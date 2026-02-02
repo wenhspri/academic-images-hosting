@@ -1,0 +1,17 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Paper%20Cover.png
+Fig 1,"Fig. 1. Antifragility in a four-quadrant diagram (The probability density curves serve as an illustration and do not precisely reﬂect the performance 
+distribution).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%201.png
+Fig 2,"Fig. 2. Disruptions shown on a generic MFD (Black dot: the initial equilibrium without disruption; Dashed line: onset of disruption; Blue 4-point 
+star: new traﬃc state after disruption; Solid curve: recovery from disruption).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%202.png
+Fig 3,Fig. 3. Simpliﬁcation of MoC under a demand disruption.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%203.png
+Fig 4,Fig. 4. Traﬃc state recovering from a supply disruption.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%204.png
+Fig 5,Fig. 5. Skewness 𝑠 heatmap with 𝑎𝑓 and 𝑎𝑤 across diﬀerent 𝑚max.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%205.png
+Fig 6,Fig. 6. Approximation of the coeﬃcients.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%206.png
+Fig 7,Fig. 7. Error of approximation by applying diﬀerent activation functions with 𝑚max = 1.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%207.png
+Fig 8,Fig. 8. The MFD of the city center of Zurich through MoC and stochasticity.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%208.png
+Fig 9,Fig. 9. Numerical simulation for demand disruption with stochasticity.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%209.png
+Fig 10,Fig. 10. Numerical simulation for supply disruption with stochasticity.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Fig%2010.png
+Table 1,Table 1  List of notations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Table%201.png
+Table 2,Table 2  Error of approximation of applying diﬀerent activation functions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Table%202.png
+Table 3,Table 3  Real-world parameters for the city center of Zurich.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2025.103386/Table%203.png
