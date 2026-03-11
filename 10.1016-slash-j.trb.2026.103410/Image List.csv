@@ -1,0 +1,20 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Paper%20Cover.png
+Fig 1,Fig. 1. Real-world cases of drone-based shore-to-ship delivery.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%201.png
+Fig 2,Fig. 2. Illustration of the proposed DRP-SSDS.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%202.png
+Fig 4,Fig. 4. Illustration of possible meeting locations for the route serving requests 𝑖 and 𝑗 in sequence.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%204.png
+Fig 5,Fig. 5. Flowchart of the proposed B&P algorithm.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%205.png
+Fig 6,Fig. 6. Shore-to-ship drone delivery trials of F-drones company in Singapore.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%206.png
+Fig 3,Fig. 3. Piecewise linear approximation of power consumption with payload discretization (1 kg intervals).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%203.png
+Fig 7,Fig. 7. Impact of payload capacity on the performance of the path-based heuristic.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%207.png
+Fig 8,Fig. 8. Sensitivity analysis of the VRPFT_10_3_6 instance under diﬀerent objective functions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Fig%208.png
+Table 1,Table 1  Technical speciﬁcations of commercial delivery drones for maritime logistics applications.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%201.png
+Table 2,Table 2  Summary of most relevant studies.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%202.png
+Table 3,Table 3  Input data.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%203.png
+Table 4,Table 4  Reference drone ﬂight phase energies and durations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%204.png
+Table 7,"Table 7  Results of the B&P algorithm, the path-based heuristic, and CPLEX on small-scale DRP-SSDS instances.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%207.png
+Table 9,Table 9  Results of the B&P algorithm and the path-based heuristic on medium-scale DRP-SSDS instances.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%209.png
+Table 10,Table 10  Results of the B&P algorithm and the path-based heuristic on large-scale DRP-SSDS instances.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%2010.png
+Table 11,Table 11  Average results with diﬀerent objective functions for some DRP-SSDS and VRPFT instances.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%2011.png
+Table 12,Table 12  Technical parameters for drone vs. boat in shore-to-ship delivery.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%2012.png
+Table 13,Table 13  Performance comparison of the drone-based and boat-based shore-to-ship delivery solutions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103410/Table%2013.png
