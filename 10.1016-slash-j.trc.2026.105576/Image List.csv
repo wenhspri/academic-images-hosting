@@ -1,0 +1,31 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Paper%20Cover.png
+Fig 1,"Fig. 1. GATSim prototype implementation. (a) Generative agent activity revision and en-route decision making. It demonstrates how agents dynam-
+ically adapt their activity plans and make real-time travel decisions based on current conditions, retrieved memories, and contextual information. 
+(b) GATSim Prototype GUI. Users input the fork name, run name, and command, then click “submit” and “start” to initiate simulation. The interface 
+displays network information, demographic data, and real-time agent plans and actions.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%201.png
+Fig 2,"Fig. 2. Overall architecture of the GATSim framework, showing the interaction between the Urban Mobility Simulation Environment and the Gener-
+ative Agents Module. The framework integrates three core components: the Urban Mobility Foundation Model for population synthesis and behavior 
+generation, generative agents with cognitive architectures designed for urban mobility, and the simulation environment for system dynamics and 
+user interaction management.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%202.png
+Fig 3,"Fig. 3. Transportation network representation in the simulation environment. The hierarchical system uses graph-structured data for LLM-based 
+scenario generation, tilemaps for map editing and animation, and bitmap visualization for end-user interaction. Transit networks are modeled 
+following Spiess and Florian’s approach with artiﬁcial boarding and alighting links.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%203.png
+Fig 4,"Fig. 4. Generative agent activity planning process. Agents synthesize multiple information sources including the previous day’s long-term reﬂection, 
+initial activity plan, and daily reﬂection, combined with current broadcast events, retrieved relevant memories, and recent conversation summaries 
+to generate today’s updated long-term reﬂection, comprehensive activity plan and concepts to keep in mind.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%204.png
+Fig 5,"Fig. 5. The agent action generation process, showing the ﬂow from perception through reasoning to action execution. Plan revision occurs at 
+strategically selected moments through four sequential stages: perception, memory retrieval, interaction, and reasoning with decision-making.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%205.png
+Fig 6,"Fig. 6. Generative agent reﬂection process. Agents operate multi-scale reﬂection mechanisms encompassing immediate reﬂection during reactive 
+decision-making, daily reﬂection for experience synthesis, and long-term reﬂection for behavioral pattern consolidation.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%206.png
+Fig 7,"Fig. 7. Transportation network topology used in experiments, adapted from the Nguyen-Dupuis network with added metro lines.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%207.png
+Fig 8,"Fig. 8. Statistical analysis of comparative performance between generative agents and human annotators, showing probability distributions and 
+conﬁdence intervals.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%208.png
+Fig 9,"Fig. 9. Traﬃc state evolution across three simulation days, showing snapshots at critical time points 7:00, 7:30, 8:00, and 8:30. The progression 
+demonstrates emergent peak spreading and congestion adaptation as agents learn from travel experiences and adjust their departure strategies.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%209.png
+Fig 10,"Fig. 10. Network incident response evolution across four consecutive days. The ﬁrst and second rows show traﬃc states at 7:30 and 8:00 respec-
+tively, demonstrating agent adaptation to a capacity reduction incident on Ave_2_link_2 (Tuesday, March 18, 7:30-8:30). The progression illustrates 
+immediate disruption eﬀects, subsequent over-reactive avoidance behavior, and gradual recovery patterns as agents adapt their travel strategies 
+based on accumulated experiences.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Fig%2010.png
+Table 1,Table 1  Comparison of GATSim with traditional simulation frameworks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Table%201.png
+Table 2,Table 2  Recency scores under diﬀerent decay  rates.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105576/Table%202.png
