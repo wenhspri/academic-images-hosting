@@ -1,0 +1,20 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Paper%20Cover.png
+Fig 1,Fig. 1. Flow diagram of the proposed N-SAP-heur approach.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Fig%201.png
+Fig 2,Fig. 2. Request selection example to ensure feasibility in ﬂight rotations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Fig%202.png
+Fig 3,Fig. 3. Schedule displacement box plot for N-SAP-heur.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Fig%203.png
+Table 1,Table 1  Properties of the data and models used in the N-SAP literature.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%201.png
+Table 2,Table 2  N-SAP model notation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%202.png
+Table 3,Table 3  Time window-based destroy-and-repair parameters.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%203.png
+Table 4,Table 4  Summary of network data request information at each airport.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%204.png
+Table 5,"Table 5  Airport declared capacity levels for the 10 airports in this study, given diﬀerent rolling constraint types.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%205.png
+Table 6,Table 6  Exact solver results when considering solutions for the S-SAP and N-SAP.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%206.png
+Table 7,Table 7  Airports with broken leg constraints in the S-SAP schedule.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%207.png
+Table 8,Table 8  Group based constructive heuristic results for diﬀerent values of 𝐺.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%208.png
+Table 9,Table 9  N-SAP-heur destroy-and-repair performance results (standard deviation).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%209.png
+Table 10,Table 10  N-SAP-heur schedule displacement and run time results (standard deviation) with diﬀerent parameter settings.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2010.png
+Table 11,Table 11  Comparison of schedule metrics and standard deviations (s.d) for schedules created using exact and heuristic solution methods.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2011.png
+Table 12,Table 12  Comparison of N-SAP-exact and N-SAP-heur solution methods.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2012.png
+Table 13,Table 13  Schedule metric results (standard deviation) for the N-SAP considering a maximum allowed displacement of  movements.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2013.png
+Table 14,Table 14  Schedule metric results (standard deviation) for the N-SAP considering ﬂight time ﬂexibility.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2014.png
+Table 15,Table 15  Displacement split between ﬂights that are in-/out-of-network at the end of each phase.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103428/Table%2015.png
