@@ -1,0 +1,18 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Paper%20Cover.png
+Fig 1,Fig. 1. The comparison between specialized models and foundation models for multimodal demand prediction.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%201.png
+Fig 2,Fig. 2. Characteristics of different modes and city-level spatial–temporal heterogeneity.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%202.png
+Fig 3,Fig. 3. The overall architecture of TransFM.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%203.png
+Fig 4,Fig. 4. The schematic diagram of Mode-Specialized Memory-Augmented MoE.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%204.png
+Fig 5,Fig. 5. The schematic diagram of Cross-City Universal Spatial-Temporal MoE.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%205.png
+Fig 6,Fig. 6. The schematic diagram of heterogeneity-aware experts.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%206.png
+Fig 7,Fig. 7. Comparison with the multimodal transportation demand prediction baseline on aligned city-mode datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%207.png
+Fig 8,Fig. 8. The visualization of City-Mode Embeddings.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%208.png
+Fig 9,Fig. 9. The analysis of captured temporal semantics on HZ-Subway dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%209.png
+Fig 10,Fig. 10. The analysis of captured spatial–temporal semantics on NYC- Ride-hailing dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%2010.png
+Fig 11,Fig. 11. The analysis of captured cross-city spatial–temporal semantics on NYC-Taxi dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Fig%2011.png
+Table 1,Table 1  Capability comparison of spatiotemporal forecasting models across key dimensions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Table%201.png
+Table 2,Table 2  Summary of the used datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Table%202.png
+Table 3,Table 3  Model performance comparison with baseline models on selected datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Table%203.png
+Table 4,Table 4  Ablation analysis on datasets of four different transportation modes.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Table%204.png
+Table 5,Table 5  Performance comparison of few-shot predictions between TransFM and baseline models.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105618/Table%205.png
