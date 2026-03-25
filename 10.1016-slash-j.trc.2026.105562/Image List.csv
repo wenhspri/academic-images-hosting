@@ -1,0 +1,18 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Paper%20Cover.png
+Fig 1,"Fig. 1. The examples of base tasks. The subﬁgure (a) presents an example of Task 1 or Task 2, and Tasks 3 and 4 are respectively illustrated by 
+subﬁgures (b) and (c).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Fig%201.png
+Fig 2,"Fig. 2. The overview of the proposed MoBLLM framework. Given 4 base task prompt templates, Step 1 generates multi-style semi-complete in-
+structions without any mobility data by prompting advanced commercial LLMs such as GPT-4o mini. Step 2 constructs the instruction dataset by 
+randomly sampling and assembling real-world mobility data with the semi-complete instructions. Step 3 obtains the MoBLLM model (for prediction) 
+by a standard supervised ﬁne-tuning pipeline that uses PEFT approach to train an open-source LLM on the instruction dataset.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Fig%202.png
+Fig 5,Fig. 5. The framework of LoRA.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Fig%205.png
+Fig 3,"Fig. 3. The example of instruction data. For the data input, <history> and <context> are the user’s mobility sequences respectively, containing  long-term and recent stays or trips. <target> includes the information about current states except for location, e.g., the tap-out station and time of  the last trip.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Fig%203.png
+Fig 4,"Fig. 4. The prompt example to generate multi-style instructions. A prompt template of the base task is put at the end, prompting LLMs to learn the  style.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Fig%204.png
+Table 1,Table 1  Comparison between the LLM-based related Methods and MoBLLM.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%201.png
+Table 2,Table 2  The descriptions of datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%202.png
+Table 3,Table 3  The performance of MoBLLM model with diﬀerent PEFT methods. The MEM denotes the GPU memory  (Gb) and Time denotes the ﬁne-tuning time (hour).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%203.png
+Table 4,Table 4  The performance comparison between the MoBLLM and baseline models.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%204.png
+Table 5,Table 5  The transferability and cost comparison between GPT-4o mini and MoBLLM on four datasets. The  cost denotes the total expense incurred in the test.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%205.png
+Table 6,Table 6  The descriptions of adaptation datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%206.png
+Table 7,Table 7  Model performance comparison under diﬀerent scenarios. Row ’ΔACC’ represents  the improvement percentage relative to the ’ACC’ rows of HK-ORI or HK-DEST  according to the corresponding tasks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105562/Table%207.png
