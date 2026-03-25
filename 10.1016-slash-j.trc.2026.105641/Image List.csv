@@ -1,0 +1,41 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Paper%20Cover.png
+Fig 2,"Fig. 2. Two switching strategies: (a) a predeﬁned switching topology, switching between diﬀerent graphs with a preset dwell time. 𝑡𝑖 denotes the 
+dwell time during which the system remains in a given communication topology before switching to the next one. (b) a stochastic switching topology, 
+switching with a random probability. 𝑝𝑖→𝑗 represents the transition probability of switching from topology 𝑖 to topology 𝑗. These probabilities 
+satisfy ∑
+𝑗𝑝𝑖→𝑗= 1, thereby deﬁning the transition law of a continuous-time Markov chain.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%202.png
+Fig 3,"Fig. 3. Illustration of observer-based DMPC control strategy. The left block diagram shows how each vehicle updates its observer state using 
+(9), shares it with neighbors at the next step, and averages according to (16) to obtain the assumed trajectory. The right timeline illustrates the 
+relationship among the observer, predecessor, and predicted trajectories with control inputs: our control objective is to determine the optimal control 
+input that minimizes the prediction errors relative to the observer’s assumed trajectory, the predecessor’s assumed trajectory, and the ego vehicle’s 
+assumed trajectory.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%203.png
+Fig 4,"Fig. 4. The terminal mean-square consensus of the observer-based DMPC controller. (a) Mean-square convergence of the observer state under 
+Markovian switching communication topologies. (b) Terminal consensus of the controller’s assumed state. The assumed state trajectories of all 
+vehicles converge to a common terminal state at the end of the prediction horizon, thereby ensuring terminal consensus. The observed, assumed, 
+actual, and reference trajectories are illustrated for comparison.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%204.png
+Fig 5,"Fig. 5. The union graph and possible communication topologies in Case I. (Dashed arrows indicate failed links, excluded from the active topology; 
+shown only as nominal references.).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%205.png
+Fig 6,"Fig. 6. Proﬁles of the candidate Ψ functions considered for the adaptive coupling gain. The functions represent diﬀerent nonlinear growth charac-
+teristics, which are evaluated to assess their impact on the convergence behavior of the proposed observer-based DMPC scheme.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%206.png
+Fig 7,Fig. 7. Selection of Ψ and the corresponding position observation error.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%207.png
+Fig 8,"Fig. 8. Adaptive coupling parameter ‖𝜅𝑖‖ vs. relative observation error (2-norm) ‖𝜙𝑖(𝑡)‖2 in Case I, showing eﬀective error control and fast conver-
+gence with increasing gain.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%208.png
+Fig 9,"Fig. 9. Diagram of the MSCT. There are four types of communication topologies, i.e., 𝜎(𝑡) = 1, 2, 3, 4.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%209.png
+Fig 10,Fig. 10. Proﬁles of observation errors between the leader and observers with MSCT and the evolution of the adaptive parameter in Case I.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2010.png
+Fig 11,"Fig. 11. Tracking proﬁles of the proposed controller. Vehicle 0 is the leader, and vehicles 1-5 are followers.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2011.png
+Fig 12,"Fig. 12. Proﬁles of tracking errors and control input using the proposed controller, benchmark I (Bian et al., 2020) and benchmark II (Ding et al., 
+2024) in Case I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2012.png
+Fig 13,Fig. 13. Evaluation of computational eﬃciency in Case I from both temporal and platoon-size perspectives.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2013.png
+Fig 14,Fig. 14. The union graph and possible communication topologies in Case II.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2014.png
+Fig 16,"Fig. 16. Tracking errors and control inputs using the proposed controller and the benchmark III (Bian et al., 2024) in Case II. The proposed controller 
+exhibits faster convergence, smaller tracking errors, and smoother control inputs compared with the benchmark.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2016.png
+Fig 17,Fig. 17. Observation results and adaptive parameter proﬁles of the proposed controller based on real-world data.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2017.png
+Fig 18,Fig. 18. Proﬁles of tracking errors and control input using the proposed controller based on real-world data.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2018.png
+Fig 15,"Fig. 15 illustrates the observation errors between the leader and the observers under Markovian switching communication topolo- gies in Case II, together with the evolution of the adaptive coupling parameter. The observation errors asymptotically converge to zero  in the presence of topology switching, indicating the stability of the proposed observer. The adaptive coupling parameter undergoes  transient adjustments in response to the observation errors and converges to a steady value as the errors decay. These results demon- strate the robustness of the observer-based scheme under dynamically switching communication conditions. In addition, we compare",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2015.png
+Fig 15,"Fig. 15. Proﬁles of the observation errors between the leader and the observers under MSCT and the evolution of the adaptive parameter in Case II.  All observation errors converge asymptotically to zero despite the presence of switching communication topologies, while the adaptive parameter  stabilizes as the errors diminish, indicating robust observer performance under dynamically switching conditions.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%2015.png
+Table 1,Table 1  Observer-based DMPC algorithm.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Table%201.png
+Table 2,Table 2  Simulation parameters.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Table%202.png
+Table 3,Table 3  Measures of eﬀectiveness (MOEs) of the proposed controller in Case I.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Table%203.png
+Table 4,Table 4  Measures of eﬀectiveness (MOEs) of the proposed controller in Case II.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Table%204.png
+Fig 1,本地新增文件,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105641/Fig%201.jpg
