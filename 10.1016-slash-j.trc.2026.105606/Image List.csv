@@ -1,0 +1,44 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Paper%20Cover.png
+Fig 1,"Fig. 1. Current challenges in mixed autonomy and the path toward better human-machine interaction. Mixed autonomy poses challenges 
+in aligning AV behavior with human drivers. Our evaluation and data attribution framework guides the development of interpretable, human-like 
+LLM agents for smoother traﬃc integration.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%201.png
+Fig 2,"Fig. 2. Introduction to the human-likeness evaluation framework. This framework evaluates human-likeness from both short-term and long-
+term perspectives, capturing performance variations across diverse driving scenarios and over extended periods. Through the application of data 
+attribution, it also reveals the information reliance patterns of humans and machines, providing insights to optimize information ﬂow and enhance 
+human-machine collaboration.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%202.png
+Fig 3,"Fig. 3. Overview of proposed HermesSense dataset, benchmark and workﬂow. HermesSense integrates real-world multimodal driving data, 
+including visual, textual, numerical, and human inputs to generate prompts for LLM-based driving agents. The benchmark evaluates human-likeness 
+through short-term decision alignment, statistical similarity across driver types, and a feature attribution framework for selecting optimal information 
+ﬂow in driving agents.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%203.png
+Fig 4,Fig. 4. Annotation platform illustrating the driving scene clips and vehicle-dynamics traces used for driving behavior labeling.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%204.png
+Fig 5,Fig. 5. A prompt example for #846 instance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%205.png
+Fig 6,"Fig. 6. LLMs’ decision alignment across various scenarios. We evaluate model performance on speed control, turning, and steering decisions using F1 
+score and 𝔻ali across varying conditions, including time of day, location type, and intersection presence. Higher F1 scores indicate better behavioral 
+alignment, while lower 𝔻ali reﬂect greater distributional similarity.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%206.png
+Fig 7,"Fig. 7. Statistical analysis of driving behavior across diﬀerent groups. (a) By driving style: aggressive, moderate, and defensive. (b) By gender: 
+female vs. male drivers. (c) By driving experience: less vs. more experienced drivers. (d) By driver age: younger vs. older drivers. Each subﬁgure 
+summarizes the average and variability of brake input, throttle input, and speed.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%207.png
+Fig 8,"Fig. 8. Results of the human-likeness of LLMs across various driver types. Overall statistical human-likeness of all LLM agents across diﬀerent driver 
+proﬁles. Each circle represents an individual LLM agent’s human-likeness score.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%208.png
+Fig 9,"Fig. 9. Sensitivity of the Statistical Human-likeness 𝔹sim to the action sequence length 𝐿 across diﬀerent driving styles. The ﬁgure reports results 
+for four representative models: (a) Claude-3.5-Haiku, (b) Gemini-2.0-Flash, (c) GPT-4o-mini, and (d) LLaMA-4-128E-Img. For each model, 𝔹sim
+is evaluated under aggressive, defensive, and moderate driving styles. Solid lines denote the mean 𝔹sim across driver demographic groups, while 
+shaded regions indicate the corresponding variance.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%209.png
+Fig 10,Fig. 10. Statistical human-likeness change for the LLMs per driver type when augmented with image input.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%2010.png
+Fig 11,"Fig. 11. Error cases where the inclusion of image inputs leads to degraded model performance in turning and steering tasks. (a) A spatial reasoning 
+failure caused by complex road geometry. (b) A failure due to a mismatch between road topology and the navigation instruction, leading to incorrect 
+steering. (c) A misinterprets of traﬃc signals resulting in a decision misaligned with the intended turn.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%2011.png
+Fig 12,"Fig. 12. Distribution of image-induced decision degradation across diﬀerent multimodal LLM agents and driving scenarios. (a) Proportion of dif-
+ferent image-induced error categories aggregated over all evaluated models.(b) Proportion of decision degradation occurrences under diﬀerent 
+driving scenario types. (c) Breakdown of error category distributions across scenarios and models, illustrating how dominant error types vary with 
+environmental conditions and road structures.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Fig%2012.png
+Table 2,"Table 2  Semantic cost matrices 𝛿𝑠, 𝛿𝑡, and 𝛿𝑒 for speed, turning, and steering control tasks. This table can be put in  supplementary.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%202.png
+Table 3,"Table 3  Overview of data types and modalities in HermesSense dataset. The HermesSense dataset integrates diverse data modalities including video,  numerical signals, and textual descriptions from multiple acquisition sources to enable multimodal analysis of LLM driving agents’ behavior.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%203.png
+Table 4,Table 4  Demographic background related to the participated drivers.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%204.png
+Table 5,Table 5  Dataset statistics before and after gaze ﬁltering.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%205.png
+Table 6,Table 6  Distribution of driving behaviors across diﬀerent demographic groups.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%206.png
+Table 7,Table 7  Scenario diversity and behavior distribution across diﬀerent driving conditions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%207.png
+Table 8,"Table 8  Decision alignment results of LLMs across three driving decision tasks. Each cell presents paired results in the format: text-only input / text- plus-image input. better values indicate performance improvements compare to text-only input, while worse values indicate performance  decreases. The model with the best performance is shown in bold. Llama3 70B, Qwen-textual model only supports textual inputs.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%208.png
+Table 9,"Table 9  Feature attribution results across F1 and 𝔻ali metrics for all driving decision tasks. Parentheses indicate the rank of each component’s contribution.  Rℎ denotes human-perceived importance rankings, 𝔻ali measures divergence alignment, 𝔸sim reﬂects attribution similarity and R𝑎𝑣𝑔 denotes the  average rank of each component’s contribution. Results are reported for four models: Claude 3.7 Sonnet, GPT-4o mini, Gemini 2.0 Flash, and  Llama 4 Maverick.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%209.png
+Table 11,"Table 11  Visual ablation results under gaze-based masking and irrelevant-region  masking. Results are reported for GPT-4o, Claude 3.7 Sonnet, and Gemini  2.5 Flash; Gaze Mask-t preserves only gaze-attended regions within the  preceding t seconds. Accuracy is shown for Speed, Turn, and Steer tasks,  with Overall denoting joint task performance.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105606/Table%2011.png
