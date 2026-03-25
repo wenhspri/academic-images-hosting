@@ -1,0 +1,15 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Paper%20Cover.png
+Fig 1,Fig. 1. Conceptual framework of structural zeros and sampling zeros in population synthesis.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%201.png
+Fig 3,Fig. 3. LLM Fine-tuning pipeline guided by BN-derived topological ordering.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%203.png
+Fig 4,Fig. 4. Example of topological ordering in encoding for fine-tuning.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%204.png
+Fig 5,Fig. 5. Learned DAG representing conditional dependencies among socio-demographic attributes.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%205.png
+Fig 6,Fig. 6. Distributional similarity between the h-population and generated samples of LLM-BN and DGM-WGAN.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%206.png
+Fig 7,Fig. 7. Sensitivity analysis of the LLM-BN models across epochs and decoding temperatures.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%207.png
+Fig 2,Fig. 2. Coverage of unique attribute combinations and data instances by sampling rates.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Fig%202.png
+Table 1,"Table 1  Description of the h-population (N = 1,006,391).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%201.png
+Table 2,Table 2  Data sources leveraged during training by each approach.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%202.png
+Table 3,"Table 3  Benchmarking population synthesis models: distributional similarity, diversity, feasibility, and the overall quality.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%203.png
+Table 4,Table 4  Impact of LLM Size on performance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%204.png
+Table 5,Table 5  Training and inference time for local LLM and DGM models.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%205.png
+Table 6,Table 6  Estimated OpenAI API costs for fine-tuning and large-scale inference.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105581/Table%206.png
