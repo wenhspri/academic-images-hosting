@@ -1,0 +1,28 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Paper%20Cover.png
+Fig 1,"Fig. 1.
+Illustration of the on-ramp merging scenario. The AV on the ramp
+lane needs to safely and efficiently merge into the main lane.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%201.png
+Fig 2,"Fig. 2. Overview of our method, SARMI, consisting of a high-level decision-making layer (left) and a low-level motion planning layer (right).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%202.png
+Fig 3,"Fig. 3. The policy update process primarily involves the actor network, reward critic network, cost critic network, as well as the AMM and ASM. The solid
+line indicates the process of the RL agent interacting with the environment to generate experiences, whereas the dashed line represents the process of the RL
+agent updating network parameters by utilizing mini-batches sampled from the replay buffer.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%203.png
+Fig 4,"Fig. 4. Illustration of the prediction-based action shielding mechanism. EV
+denotes the ego vehicle, and SV denotes the surrounding vehicle.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%204.png
+Fig 5,"Fig. 5. Kinematic bicycle model. XOY and SOD represent the Cartesian and
+Frenet coordinate systems. The reference line is the lane centerline.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%205.png
+Fig 6,"Fig. 6. Comparative study. (a) Average reward, (b) Average cost, (c) Crash ratio; the shaded region denotes the standard deviation across five random seeds.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%206.png
+Fig 7,"Fig. 7.
+Visualization of the testing performance of the trained SARMI method under different traffic density conditions. The green box denotes the ego
+vehicle. We also show the historical trajectory of the ego vehicle.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%207.png
+Fig 8,"Fig. 8. Comparison of passenger comfort between MPC and PID at the low-
+level motion planning layer. For clarity, traffic density levels are denoted as L
+(low), M (medium), and H (high). Longitudinally, MPC achieves performance
+comparable to PID. In the lateral direction, MPC outperforms PID.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%208.png
+Fig 9,"Fig. 9. The training results of the ablation study, structured with four groups: the full SARMI, SARMI w/o ALM, SARMI w/o ALM and AMM, and SARMI
+w/o ALM, AMM, and ASM. ALM (Augmented Lagrangian Method), AMM (Action Masking Mechanism), ASM (Action Shielding Mechanism).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%209.png
+Fig 10,Fig. 10. Training results of the ablation study on the risk field term.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%2010.png
+Fig 11,"Fig. 11. Illustration of the NGSIM US-101 merging scenario. The green vehi-
+cle represents the ego vehicle, while the yellow vehicles denote surrounding
+vehicles. The transparent rectangles in front of each vehicle indicate their
+predicted future trajectories.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1109-slash-JIOT.2026.3676898/Fig%2011.png
