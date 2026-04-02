@@ -1,0 +1,23 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41893-026-01797-9/Paper%20Cover.png
+Fig 1,"Fig. 1 | Fleet composition and signal timing. a, Weekday hourly volume  
+profiles for the top six vehicle types: passenger car (P_Car), passenger truck 
+(P_Truck), single-unit truck (SU_Truck), school bus (S_Bus), transit bus  
+(T_Bus) and motorcycle (M_Cycle). b, Scatter plot comparing hourly traffic 
+volumes derived from cameras and ATRs. The black dashed line indicates the 1:1 
+reference. c, Comparison of vehicle type distributions from our model (YOLO +",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41893-026-01797-9/Fig%201.png
+Fig 3,"Fig. 3 | Emission estimation outcomes. a–d, Spatial distribution of emission 
+density from 8:00–9:00 a.m. for CO (a), NOx (b), PM2.5 (kg h−1 mi−1) (c) and CO2 
+(t h−1 mi−1) (d). Road segments with greater width and deeper red colouring 
+indicate higher emission densities. Jenks natural breaks classification is applied. 
+Spatial maps for other hours are shown in Supplementary Fig. 7. e, Hourly 
+variation in CO2 emissions across all road segments during weekdays, shown",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41893-026-01797-9/Fig%203.png
+Fig 4,"Fig. 4 | Ablation analysis. a–d, Change in road-level emissions by road type 
+under different model simplifications: signal controls are not considered (a), 
+road-level fleet composition is replaced by the citywide average (b), road-level 
+traffic speed is replaced with the average for the same hour and road type (c) and",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41893-026-01797-9/Fig%204.png
+Fig 1_1,无本地文件
+Fig 2,"Extended Data Fig. 2 | Methodological Framework. The total framework includes three main parts: Visual information enrichment, network extrapolation, and emission 
+estimation. Basemap data from OpenStreetMap under an Open Data Commons Open Database License.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1038-slash-s41893-026-01797-9/Fig%202.png
+Fig 3_1,无本地文件
+Fig 4_1,无本地文件
