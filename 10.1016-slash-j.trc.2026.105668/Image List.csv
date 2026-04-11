@@ -1,0 +1,21 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Paper%20Cover.png
+Fig 1,Fig. 1. Illustration of multi-step location prediction for bundled recommendation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%201.png
+Fig 2,Fig. 2. Framework of LLM-REDTAM.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%202.png
+Fig 3,"Fig. 3. Example prompts for Motif feature extractor, Loc-Act feature extractor, and reflection.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%203.png
+Fig 4,Fig. 4. Comparison between conventional and reflection-enhanced knowledge distillation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%204.png
+Fig 5,Fig. 5. The geographical distribution of check-in locations in the NYC and TKY datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%205.png
+Fig 6,Fig. 6. Travel patterns of individual location and activity visits on two datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%206.png
+Fig 7,Fig. 7. Example of improved response quality after reflection-enhanced knowledge distillation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%207.png
+Fig 8,Fig. 8. Performance comparison of LLM-P before and after distillation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%208.png
+Fig 9,Fig. 9. Prediction results of ablation studies on two datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%209.png
+Fig 10,Fig. 10. Prediction results of different experts on two datasets.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%2010.png
+Fig 11,Fig. 11. Visualization of inter-modality weight for different samples.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%2011.png
+Fig 12,Fig. 12. An example of natural language interpretation of features extracted by the LLM-based feature extractor.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%2012.png
+Fig 13,Fig. 13. Sensitivity analysis of the number of sub-experts (K) in TAM-MoE.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%2013.png
+Fig 14,Fig. 14. Sensitivity analysis of the expansion factor (E) in TAM-MoE.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Fig%2014.png
+Table 1,Table 1  Statistics of two datasets after data filtering.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Table%201.png
+Table 2,Table 2  Performance comparison between the proposed model and other baseline models on the NYC dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Table%202.png
+Table 3,Table 3  Performance comparison between the proposed model and other baseline models on the TKY dataset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Table%203.png
+Table 4,Table 4  Model definitions of ablation studies.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Table%204.png
+Table 5,Table 5  Comparison of inference time and parameter size.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105668/Table%205.png
