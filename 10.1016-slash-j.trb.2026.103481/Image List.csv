@@ -1,12 +1,21 @@
 ﻿序号,标题,URL
 Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Paper%20Cover.png
-Fig 1,"Fig. 1. Toll allocation provided by the SES method (circle), SPS method (diamond) and SCS method (square) for the AP68 highway segments. The 
-segment with the highest toll is marked in green, while the segment with the lowest toll is shown in red. (For interpretation of the references to 
-colour in this ﬁgure legend, the reader is referred to the web version of this article.)",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%201.png
-Fig 3,"Fig. 3. Lorenz curves and Gini index for the SES, SPS and SCS methods.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%203.png
-Fig 2,"Fig. 2. Correlations between the SES, SPS and SCS methods.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%202.png
-Table 1,Table 1  Overview of the properties and the axiomatizations for the high- way toll allocation methods and the core for the segments allocation  game.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Table%201.png
-Table 2,Table 2  Segments of the highway AP68.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Table%202.png
-Table 3,Table 3  Toll allocation methods for the highway AP68.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Table%203.png
-Table 4,Table 4  Ranking of the AP68 highway segments.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Table%204.png
-Table 5,Table 5  Spearman’s correlation matrix  (lower triangular matrix) and  Pearson’s correlation matrix (up- per triangular matrix) for the toll  allocations.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Table%205.png
+Fig 1,Fig. 1. Heterogeneity decomposition.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%201.png
+Fig 2,Fig. 2. Pitfalls of learning a global model under heterogeneity.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%202.png
+Fig 3,"Fig. 3. Learned global model under diﬀerent AV control-logic. Each agent has a unique 𝑲𝑇
+𝑣. All AVs here share the same leader.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%203.png
+Fig 4,Fig. 4. Learned global model under regime switching behavior.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%204.png
+Fig 5,Fig. 5. Learning global model versus personalized model.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%205.png
+Fig 6,Fig. 6. Learning personalization on global model with stimulus.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%206.png
+Fig 7,Fig. 7. Time-space comparison between global and personalized models.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%207.png
+Fig 8,Fig. 8. Learning personalization for multi-class AVs.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%208.png
+Fig 9,Fig. 9. Identiﬁcation of disturbance propagation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%209.png
+Fig 10,Fig. 10. Learning personalization for regime switching.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2010.png
+Fig 11,"Fig. 11. Decomposition across behavioral dimensions in the NGSIM dataset. Each panel shows the true signal, the common component, and the 
+personalized component for all vehicles.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2011.png
+Fig 12,Fig. 12. Personalization of AV behavior through targeted transfer of an HDV personalized decomposition.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2012.png
+Fig 13,Fig. 13. Personalization of AV behavior across various HDV driving styles.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2013.png
+Fig 14,"Fig. 14. Comparison of driver clustering results using personalized decomposition, based on 16 stop-and-go oscillations form NGSIM 101. The top 
+panel shows the clustering obtained from uniﬁed representations across acceleration, speed, and spacing. Bottom panels show targeted clustering 
+derived from acceleration, speed, and spacing independently.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2014.png
+Fig 15,Fig. 15. Large scale clustering based on personalized decomposition.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103481/Fig%2015.png
