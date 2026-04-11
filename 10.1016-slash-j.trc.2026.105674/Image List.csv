@@ -1,0 +1,52 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Paper%20Cover.png
+Fig 1,"Fig. 1. Overview of this work. Autonomous driving scenarios incorporating the states of observed vehicles and time to collision are sampled from 
+the state set. These scenarios train a deep reinforcement learning network that solves a partition problem. After rigorous veriﬁcation, the network 
+establishes a provable unsafe set partition wherein each subset contains states sharing the same minimum steps to collision. This partition is then 
+instantiated into the provable minimum collision time as a safety metric, and a provable upper bond of the system collision risk.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%201.png
+Fig 2,"Fig. 2. The Veriﬁcation Process of the Q Network. For each veriﬁcation iteration, the initial state is ﬁrst randomly sampled from the feasible set. 
+The true collision step count is determined through simulation run in simulator, while the Q network constructed with encoder and value function 
+provides a corresponding prediction by rounding the output. If the true value falls below the predicted value, indicating non-compliance with the 
+veriﬁcation theorem, the process terminates and reverts to training. Otherwise, veriﬁcation continues until the number of successful trials satisﬁes 
+the theorem’s requirements.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%202.png
+Fig 3,"Fig. 3. Settings of the autonomous driving system. The experiments are conducted in a three-lane highway environment, where each lane is 
+1200 meters long and 4 meters wide, with longitudinal axes aligned along the x-axis. The autonomous vehicle continuously monitors the kinematic 
+states of six critical background vehicles within a circular observation zone of 118-meter radius. These background vehicles are designated as the 
+leading, following, left-leading, left-following, right-leading, and right-following background vehicles, with external vehicles randomly generated 
+according to the naturalistic driving environment.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%203.png
+Fig 4,"Fig. 4. Comparison between predicted collision times and true values. The histogram on the left compares collision times predicted by PMCT 
+against ground-truth values. The x-axis represents binned predicted collision times, with the y-axis indicating sample counts. Green bars denote 
+instances where ground-truth collision time ≥ predicted value, while purple bars indicate failure cases where ground-truth collision time < predicted 
+value. Red dashed lines delineate the predetermined misclassiﬁcation rate threshold for the failure data. The line chart on the right details the 
+misclassiﬁcation rate corresponding to each predicted collision time bin. This empirical distribution validates compliance with the theoretical 
+misclassiﬁcation rate threshold.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%204.png
+Fig 5,"Fig. 5. ROC curve and PR curve of the safety metrics. The left ﬁgure presents the ROC curve, and the right one presents the PR curve. The 
+subgraph in the PR curve ﬁgure is a magniﬁed view focusing exclusively on the high-recall (0.85 to 1.00) threshold. Results demonstrate that PMCT 
+can achieve a relatively high Recall unattainable by alternative metrics, and maintain substantially higher precision at equivalent Recall levels.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%205.png
+Fig 6,"Fig. 6. Snapshots and collision time predictions of two real-time collision scenarios. In subﬁgures (a) and (b), AV executes rightward and 
+leftward lane changes, respectively, subsequently colliding with the leading BV in the target lane. In each subﬁgure, snapshots show the scenario’s 
+initial state, lane-changing maneuver and collision state, with longitudinal position and lane index represented on the x-axis and y-axis respectively. 
+Line charts present the collision time predictions by three safety metrics at each time step compared with the actual remaining time to the colli-
+sion step. Results demonstrate that PMCT outperforms other two metrics in successfully predicting a shorter collision time than the actual value, 
+facilitating timely human intervention in high-risk scenarios through earlier collision alerts.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%206.png
+Fig 7,"Fig. 7. Mcity digital twin in TeraSim and examples of collision types. (a) An overview of Mcity. (b) A rear-end collision occurred on a straight 
+road. (c) A cut-in collision occurred at an intersection. (d) A head-on collision occurred at an intersection. (e) A roundabout rear-end collision caused 
+by delayed braking of the rear car.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%207.png
+Fig 9,"Fig. 9. ROC curve and PR curve of the safety metrics on the test sets for road and intersection collision scenarios. Sub-ﬁgure (a) shows the 
+result on the test set of road collision scenarios, and sub-ﬁgure (b) shows the result on the test set of intersection collision scenarios. In each sub-
+ﬁgure, the left line chart presents the ROC curve, and the right one presents the PR curve. Results demonstrate that PMCT can achieve a relatively 
+high Recall unattainable by alternative metrics, and maintain substantially higher precision at equivalent Recall levels on both test sets.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%209.png
+Fig 10,"Fig. 10. Trajectories of real-world collision scenarios from ROCO. The ﬁgure illustrates three distinct accident cases , where blue and red 
+trajectories represent the two primary vehicles involved in each conﬂict. The gradient of the color indicates the temporal progression. Lighter 
+shades mark the starting positions, while darker shades denote the concluding positions of the sequence. Rectangular markers represent the vehicle 
+poses at discrete time steps with a frequency of 2.5𝐻𝑧, and black circles highlight the exact spatial locations where the collisions occurred.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%2010.png
+Fig 11,"Fig. 11. Collision time predictions of real-time collision scenarios. Each sub-ﬁgure illustrates the safety metric prediction results for a speciﬁc 
+accident, where both involved vehicles are sequentially treated as the ego vehicle across the selected temporal slices. The two prediction results are 
+shown as line charts, and each line chart presents the collision time predictions by three safety metrics at each time step compared with the actual 
+remaining time to the collision step.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Fig%2011.png
+Table 1,Table 1  Summary of Abbreviation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%201.png
+Table 2,Table 2  Summary of Notation.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%202.png
+Table 3,Table 3  Initial State Occurrence Probabilities by Subset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%203.png
+Table 4,Table 4  Transition Probability Matrix of Subsets (%).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%204.png
+Table 5,Table 5  Collision Risk Expectations of States in Each Subset.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%205.png
+Table 6,Table 6  Per-sample Computation Time of Safety Metrics.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105674/Table%206.png
