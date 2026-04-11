@@ -1,0 +1,19 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Paper%20Cover.png
+Fig 1,"Fig. 1. Illustration of the inverse learning framework. The forward problem solves a context-dependent network equilibrium model to prescribe 
+context-dependent user equilibrium, where 𝑣∈ and 𝑥 denote link ﬂows and context features (e.g., weather), respectively. The generalized link cost 
+function 𝑡𝑎(𝑣𝑎, 𝑥, 𝜃) is unobservable and must be calibrated. The inverse learning process seeks to infer the travel choice preferences or parameter 𝜃
+to best match the observed link ﬂows over multiple days.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%201.png
+Fig 2,"Fig. 2. Illustration of an example network with virtual links added between OD pairs, represented by dashed lines.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%202.png
+Fig 3,"Fig. 3. Illustration of the parallel block coordinate gradient descent algorithm. First, the parameter 𝜃 is ﬁxed while solving for the link ﬂows 𝑣. 
+Next, the updated ﬂows 𝑣 are held ﬁxed while the model parameters 𝜃 are updated.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%203.png
+Fig 4,"Fig. 4. Eﬀect of sample size on (a) link parameter MAPE𝜃 and (b) demand parameter MAPE𝜃.  The shaded regions represent the range between the 
+minimum and maximum metrics for each epoch.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%204.png
+Fig 5,"Fig. 5. Link ﬂow MAPE under diﬀerent (a) observation noise and (b) missing ratio.  The shaded regions represent the range between the minimum 
+and maximum metrics for each epoch.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%205.png
+Fig 6,"Fig. 6. Ann Arbor network. Traﬃc analysis zones are colored by area type. The darker the color, the larger the area type number.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%206.png
+Fig 7,"Fig. 7. Diﬀerences in observed trips between (a) snow and non-snow days, and (b) weekdays and weekends.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Fig%207.png
+Table 3,Table 3  Observation statistics by number of OD pairs.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Table%203.png
+Table 4,Table 4  Model performance across diﬀerent scenarios and settings. Link time MAPEs are reported as  percentages with standard deviations in parentheses.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Table%204.png
+Table 5,Table 5  Parameters of link performance function under diﬀerent settings.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Table%205.png
+Table 6,Table 6  Non-zero parameters of the inverse demand function under diﬀerent settings.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103463/Table%206.png
