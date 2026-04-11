@@ -1,0 +1,18 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Paper%20Cover.png
+Fig 1,Fig. 1. Relation of eight feasible phases and movements in a standard four-leg intersection.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%201.png
+Fig 2,Fig. 2. Illustration of the GNN architecture for long-term network throughput prediction.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%202.png
+Fig 3,Fig. 3. Road structures and traﬃc demand proﬁles for two networks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%203.png
+Fig 4,Fig. 4. Evolution of throughput for MP and MPC strategies under various demand levels.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%204.png
+Fig 5,Fig. 5. Evolution of throughput and accumulation under various demand levels with balanced demand pattern (Grid network).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%205.png
+Fig 6,Fig. 6. Evolution of throughput and accumulation under various demand levels with balanced demand pattern (Downtown network).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%206.png
+Fig 7,Fig. 7. Evolution of throughput under various demand levels with unbalanced demand pattern.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%207.png
+Fig 8,Fig. 8. Total departures from diﬀerent directions under the over-saturated demand level.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%208.png
+Fig 9,Fig. 9. MFDs and the 95th percentiles of throughput under diﬀerent demand patterns.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%209.png
+Fig 10,Fig. 10. Various coeﬃcients produced by the throughput predictor.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2010.png
+Fig 11,Fig. 11. Outﬂow weights at diﬀerent densities for internal and entry links.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2011.png
+Fig 12,Fig. 12. Diﬀerences in average outﬂow weights between internal and entry links for the oﬄine dataset with MP strategy.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2012.png
+Fig 13,Fig. 13. Time-averaged link outﬂow weights across grid and downtown networks with diﬀerent demand patterns.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2013.png
+Fig 14,Fig. 14. Sensitivity analysis of prediction horizon of LMPC strategy.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2014.png
+Fig 15,Fig. 15. Sensitivity analysis of prediction horizon of GNN.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Fig%2015.png
+Table 1,Table 1  Throughput and average vehicle delay under diﬀerent control strategies.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103470/Table%201.png
