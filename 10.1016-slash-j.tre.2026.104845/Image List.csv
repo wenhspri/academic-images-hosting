@@ -1,0 +1,22 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Paper%20Cover.png
+Fig 1,Fig. 1. Schematic of trip types (The numbers on the lines represent a feasible but not unique visit sequence.).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%201.png
+Fig 2,Fig. 2. Overall structure of this paper.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%202.png
+Fig 3,Fig. 3. Schematic diagram of the delivery routes for MSFSP-D (Numbers on the lines indicate the UAV ﬂight sequence.).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%203.png
+Fig 4,Fig. 4. UAV route structure (The numbers on the lines represent a feasible but not unique UAV ﬂight sequence.).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%204.png
+Fig 5,Fig. 5. Schematic of the disconnected feasible and infeasible solutions.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%205.png
+Fig 6,Fig. 6. Schematic diagram of material supply relationship.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%206.png
+Fig 7,Fig. 7. Two scheduling results for the bays29 instance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%207.png
+Fig 8,Fig. 8. Two scheduling results for the dantzig42 instance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%208.png
+Fig 9,Fig. 9. Two scheduling results for the eli51 instance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%209.png
+Fig 10,Fig. 10. Two scheduling results for the st70 instance.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%2010.png
+Fig 11,Fig. 11. Facility damage simulation results (3 stations and 3 UAVs).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%2011.png
+Fig 12,Fig. 12. Facility damage simulation results (5 stations and 5 UAVs).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%2012.png
+Fig 13,Fig. 13. Facility damage simulation results (10 stations and 10 UAVs).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Fig%2013.png
+Table 1,Table 1  Comparative analysis of the proposed MSFSP-D against existing literature.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%201.png
+Table 2,Table 2  Classiﬁcation and derivation logic of constraints and cuts in the robust scheduling model.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%202.png
+Table 3,Table 3  Comparison of the performance of solving methods for MSFSP-D.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%203.png
+Table 4,Table 4  Comparison of the performance of solving methods for robust optimization model.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%204.png
+Table 5,Table 5  Comparison of non-ﬂexible and ﬂexible scheduling results.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%205.png
+Table 6,Table 6  Comparison of robust performance of scheduling results.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%206.png
+Table 7,Table 7  Comparison of MSFSP-D results under diﬀerent location schemes.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.tre.2026.104845/Table%207.png
