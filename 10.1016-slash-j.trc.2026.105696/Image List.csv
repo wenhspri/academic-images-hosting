@@ -1,0 +1,14 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Paper%20Cover.png
+Fig 1,Fig. 1. Framework of the proposed partition method.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%201.png
+Fig 2,Fig. 2. The actual network of the example for edge weight calculation on tramway layer.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%202.png
+Fig 3,Fig. 3. Sketch of joint spectral clustering.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%203.png
+Fig 4,"Fig. 4. Partition results on the 27*27 grid network with diﬀerent center-dense road traﬃc demands of the two methods based on the road traﬃc 
+density heatmap.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%204.png
+Fig 5,"Fig. 5. Partition results on the 27*27 grid network with diﬀerent diagonal-dense road traﬃc demands of the two methods based on the road traﬃc 
+density heatmap.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%205.png
+Fig 6,Fig. 6. Partition results on Dresden network based on road traﬃc density heatmaps.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Fig%206.png
+Table 1,Table 1  Summary of traﬃc network partition methods.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Table%201.png
+Table 2,Table 2  Variable and parameter illustration.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Table%202.png
+Table 3,Table 3  Setup parameters of grid networks.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Table%203.png
+Table 6,Table 6  Evaluation metrics for partition results on Dresden network.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trc.2026.105696/Table%206.png
