@@ -1,0 +1,16 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Paper%20Cover.png
+Fig 1,"Fig. 1. Convergence performance of CumLog for Sioux Falls with 𝑟= 0.01 and 𝜂𝑡= 1, ∀𝑡.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%201.png
+Fig 2,"Fig. 2. Convergence performance of CumLog for other networks. 𝑟= 0.05 for Anaheim and Chicago Sketch and 𝑟= 0.005 for Barcelona. 𝜂𝑡= 1, ∀𝑡.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%202.png
+Fig 3,"Fig. 3. Impact of the exploitative intensity 𝑟 on the performance of CumLog (Sioux Falls network, Scenario (A)).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%203.png
+Fig 4,"Fig. 4. Experimental results of route exploration from start to end. Anaheim network, 𝑟= 0.05.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%204.png
+Fig 5,Fig. 5. Convergence performance of CumLog with and without route exploration under Scenario (B).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%205.png
+Fig 6,Fig. 6. Route set found by CumLog at equilibrium (route exploration performed only for the ﬁrst 50 iterations).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%206.png
+Fig 7,"Fig. 7. Impact of discretization. The Sioux Falls network, Scenario (B).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%207.png
+Fig 8,Fig. 8. Topology and link properties of the Nguyen and Dupuis (N-D) network.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%208.png
+Fig 9,Fig. 9. Solution to the C-BiTA problem with two-dimensional continuous user heterogeneity (𝑟= 1).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%209.png
+Fig 10,Fig. 10. Convergence performance of the C-BiTA problem with two-dimensional continuous user heterogeneity (𝑟= 1).,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%2010.png
+Fig 11,Fig. 11. Equilibrium system total cost comparison for variants of the C-BiTA problem.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%2011.png
+Fig 12,"Fig. 12. Solution to C-BiTA problems with: (1) additive and separable (benchmark) cost function, (2) non-additive and separable cost function, and 
+(3) non-additive and non-separable cost function. Tolls of Links (10, 11) and (5, 9) are reset to 0.05 and 0.1, and 𝑟= 0.6.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Fig%2012.png
+Table 1,Table 1  Test networks used in the numerical experiments.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1016-slash-j.trb.2026.103465/Table%201.png
