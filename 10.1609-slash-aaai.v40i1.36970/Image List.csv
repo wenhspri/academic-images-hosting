@@ -1,0 +1,9 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1609-slash-aaai.v40i1.36970/Paper%20Cover.png
+Fig 2,"Figure 2: Overview of the CDPT framework for generalizable traffic simulation. Phase I: The teacher model encodes causal
+patterns via diffusion-based generation, and the student learns through feature, response, and contrastive self-distillation. Phase
+II: The teacher synthesizes target-domain scenarios guided by collision-aware and domain-adaptive rewards, enabling continual
+distillation for student adaptation.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1609-slash-aaai.v40i1.36970/Fig%202.png
+Table 1,Table 1: Comparison of methods in WOMD validation set for open-loop trajectory generation performance. Best val- ues are bolded,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1609-slash-aaai.v40i1.36970/Table%201.png
+Table 2,"Table 2: Ablation study on the components of CDPT and performance comparison of methods in WOMD and INTERACTION datasets for closed-loop simulation, with phase I and phase II metrics: off-road (O), collision (C), wrong-way (W), kinematic infeasibility (K), and log divergences (L). Best values are bolded, and second-best values are underlined.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1609-slash-aaai.v40i1.36970/Table%202.png
+Table 3,"Table 3: Performance comparison of different methods in OnSite benchmark with Safety Score (SS), Kinetic distribu- tion consistency (KC), Comfort Score (CS), Test Effective- ness (TE), and Total Score (TS). Best values are bolded, and second-best values are underlined.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.1609-slash-aaai.v40i1.36970/Table%203.png
