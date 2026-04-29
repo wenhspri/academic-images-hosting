@@ -1,0 +1,40 @@
+﻿序号,标题,URL
+Paper Cover,Paper Cover,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Paper%20Cover.png
+Fig 1,"Fig. 1. Police-car swerving at high speed on a freeway, California, USA (Snapshots from the footage in [19]).",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%201.png
+Fig 2,"Fig. 2.
+A schematic diagram of the single-vehicle double-detector jam-
+absorption driving. Note the numbers in grey indicate traffic states.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%202.png
+Fig 3,"Fig. 3. The speed-density relationship and traffic instability. v′ and k′ denote
+the critical traffic state, separating stable and unstable traffic states.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%203.png
+Fig 4,"Fig. 4. Feasible region of the dispatch time and location (point A) of a JAD
+vehicle.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%204.png
+Fig 5,"Fig. 5. The impact of JAD speed v∗on the JAD process (Jdis and Jdur).
+Left: schematic diagram; Right: results of numerical simulation, measured by
+keeping all other parameters at their midpoint values in Table I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%205.png
+Fig 6,"Fig. 6.
+The impact of inflow traffic speed vt on the JAD process (Jdis
+and Jdur). Left: schematic diagram; Right: results of numerical simulation,
+measured by keeping all other parameters at their midpoint values in Table I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%206.png
+Fig 7,"Fig. 7. The impact of wave width ∆w on the JAD process (Jdis and Jdur).
+Left: schematic diagram; Right: results of numerical simulation, measured by
+keeping all other parameters at their midpoint values in Table I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%207.png
+Fig 8,"Fig. 8. The impact of wave width w on the JAD process (Jdis and Jdur).
+Left: schematic diagram; Right: results of numerical simulation, measured by
+keeping all other parameters at their midpoint values in Table I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%208.png
+Fig 9,"Fig. 9. The impact of in-wave traffic speed ∆w on the JAD process (Jdis
+and Jdur). Left: schematic diagram; Right: results of numerical simulation,
+measured by keeping all other parameters at their midpoint values in Table I.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%209.png
+Fig 10,Fig. 10. SUMO simulatied self-sustaining stop-and-go wave.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2010.png
+Fig 11,"Fig. 11.
+Comparison of traffic breakdown under moving bottlenecks with
+different speeds. (a)(b) traffic breakdown; (c)(d) no breakdown.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2011.png
+Fig 12,"Fig. 12.
+Estimation of wave temporal width using a stationary roadside
+detector. (a) Time series of detected vehicle speed; (b) Time-space trajectories
+around the wave.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2012.png
+Fig 13,Fig. 13. Time headways at the JAD vehicle’s standby location.,https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2013.png
+Fig 14,"Fig. 14. A stop-and-go wave is successfully suppressed using a JAD strategy
+with a JAD speed of 55 km/h.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2014.png
+Fig 15,"Fig. 15. A JAD strategy that fails to suppress a stop-and-go wave. (a) JAD
+speed v∗= 35 km/h is too low to prevent traffic breakdown; (b) point C is
+located too close to point D to effectively suppress the stop-and-go wave.",https://fastly.jsdelivr.net/gh/wenhspri/academic-images-hosting@paper/10.48550-slash-arXiv.2602.10234/Fig%2015.png
